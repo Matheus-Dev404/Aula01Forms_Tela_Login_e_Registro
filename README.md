@@ -1,41 +1,45 @@
-Aula 01: Formulários de Login e Registro em C#
-Este repositório contém o código desenvolvido durante a primeira aula prática de interface gráfica utilizando C#. O objetivo foi criar uma aplicação desktop funcional para autenticação de usuários, com telas específicas para Login e Cadastro.
+# Sistema de Login e Cadastro em C#
 
-Desenvolvimento
-O projeto foca na manipulação de eventos e coleta de dados em ambiente desktop, explorando:
+## Descrição
 
-Controles de Formulário: Uso de TextBox (com PasswordChar para senhas), Label, Button e LinkLayout.
+Este repositório contém o desenvolvimento da primeira aula prática voltada à criação de interfaces gráficas utilizando C#. O projeto consiste em uma aplicação desktop simples para autenticação de usuários, composta por telas de login e cadastro.
 
-Lógica de Navegação: Implementação de troca de janelas (Forms) dentro da aplicação.
+O foco principal está na manipulação de eventos, navegação entre formulários e coleta de dados inseridos pelo usuário.
 
-Manipulação de Eventos: Tratamento de cliques e validação básica de campos via código.
+## Funcionalidades
 
-Tecnologias Utilizadas
-C# (.NET): Linguagem de programação principal.
+- Tela de login com validação básica de credenciais
+- Tela de cadastro de usuários
+- Navegação entre formulários
+- Entrada de senha com ocultação de caracteres
+- Validação simples de campos
 
-Windows Forms / WPF: Framework para criação da interface gráfica.
+## Tecnologias Utilizadas
 
-Visual Studio: IDE utilizada para o desenvolvimento.
+- C# (.NET)
+- Windows Forms
+- Visual Studio
 
-Equipe
-Henrique Gonçalves
+## Conceitos Aplicados
 
-Matheus Vinicius
+- Instanciação e exibição de formulários
+- Manipulação de eventos
+- Configuração de controles de interface
+- Controle básico de fluxo entre telas
+- Tratamento simples de dados inseridos pelo usuário
 
-Aprendizados
-Instanciação de Forms: Entendimento de como criar e exibir uma nova instância de formulário (ex: form.Show()).
+## Equipe
 
-Propriedades de Controle: Configuração de componentes via interface e via código para melhorar a experiência do usuário.
+- Henrique Gonçalves
+- Matheus Vinicius
 
-Escopo de Variáveis: Gerenciamento simples dos dados inseridos nos campos de texto para futura persistência ou autenticação.
+## Como Executar
 
-Como visualizar
-Para executar o projeto:
+1. Certifique-se de possuir o .NET SDK instalado.
+2. Abra o arquivo `.sln` no Visual Studio.
+3. Compile o projeto.
+4. Execute a aplicação com `F5`.
 
-Certifique-se de ter o SDK do .NET instalado.
+## Observações
 
-Abra o arquivo de solução (.sln) no Visual Studio.
-
-Compile e execute o projeto (F5) para abrir a interface principal.
-
-Projeto desenvolvido para fins de estudo durante a aula de Desenvolvimento Web/Desktop.
+Projeto desenvolvido para fins educacionais, com o objetivo de introduzir conceitos fundamentais de desenvolvimento desktop utilizando C# e Windows Forms.
