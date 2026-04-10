@@ -1,0 +1,17 @@
+C:\Users\aluno_faculdade\Documents\SharpDevelop Projects\aula20DS_HenriqueG&MatheusV\aula20DS_HenriqueG&MatheusV\bin\Debug\aula20DS_HenriqueG&MatheusV.exe.config
+C:\Users\aluno_faculdade\Documents\SharpDevelop Projects\aula20DS_HenriqueG&MatheusV\aula20DS_HenriqueG&MatheusV\bin\Debug\aula20DS_HenriqueG&MatheusV.exe
+C:\Users\aluno_faculdade\Documents\SharpDevelop Projects\aula20DS_HenriqueG&MatheusV\aula20DS_HenriqueG&MatheusV\bin\Debug\aula20DS_HenriqueG&MatheusV.pdb
+C:\Users\aluno_faculdade\Documents\SharpDevelop Projects\aula20DS_HenriqueG&MatheusV\aula20DS_HenriqueG&MatheusV\obj\Debug\aula20DS_HenriqueG&MatheusV.csprojResolveAssemblyReference.cache
+C:\Users\aluno_faculdade\Documents\SharpDevelop Projects\aula20DS_HenriqueG&MatheusV\aula20DS_HenriqueG&MatheusV\obj\Debug\aula20DS_HenriqueG&MatheusV.exe
+C:\Users\aluno_faculdade\Documents\SharpDevelop Projects\aula20DS_HenriqueG&MatheusV\aula20DS_HenriqueG&MatheusV\obj\Debug\aula20DS_HenriqueG&MatheusV.pdb
+C:\Users\aluno_faculdade\Documents\SharpDevelop Projects\aula20DS_HenriqueG&MatheusV\aula20DS_HenriqueG&MatheusV\obj\Debug\aula20DS_HenriqueG_MatheusV.MainForm.resources
+C:\Users\aluno_faculdade\Documents\SharpDevelop Projects\aula20DS_HenriqueG&MatheusV\aula20DS_HenriqueG&MatheusV\obj\Debug\aula20DS_HenriqueG&MatheusV.csproj.GenerateResource.Cache
+C:\Users\Matheus\Downloads\aula20DS_HenriqueG&MatheusV\aula20DS_HenriqueG&MatheusV\aula20DS_HenriqueG&MatheusV\obj\Debug\aula20DS_HenriqueG&MatheusV.csproj.AssemblyReference.cache
+C:\Users\Matheus\Downloads\aula20DS_HenriqueG&MatheusV\aula20DS_HenriqueG&MatheusV\aula20DS_HenriqueG&MatheusV\obj\Debug\aula20DS_HenriqueG&MatheusV.exe
+C:\Users\Matheus\Downloads\aula20DS_HenriqueG&MatheusV\aula20DS_HenriqueG&MatheusV\aula20DS_HenriqueG&MatheusV\obj\Debug\aula20DS_HenriqueG&MatheusV.pdb
+C:\Users\Matheus\Downloads\aula20DS_HenriqueG&MatheusV\aula20DS_HenriqueG&MatheusV\aula20DS_HenriqueG&MatheusV\bin\Debug\aula20DS_HenriqueG&MatheusV.exe.config
+C:\Users\Matheus\Downloads\aula20DS_HenriqueG&MatheusV\aula20DS_HenriqueG&MatheusV\aula20DS_HenriqueG&MatheusV\bin\Debug\aula20DS_HenriqueG&MatheusV.exe
+C:\Users\Matheus\Downloads\aula20DS_HenriqueG&MatheusV\aula20DS_HenriqueG&MatheusV\aula20DS_HenriqueG&MatheusV\bin\Debug\aula20DS_HenriqueG&MatheusV.pdb
+C:\Users\Matheus\Downloads\aula20DS_HenriqueG&MatheusV\aula20DS_HenriqueG&MatheusV\aula20DS_HenriqueG&MatheusV\obj\Debug\aula20DS_HenriqueG_MatheusV.MainForm.resources
+C:\Users\Matheus\Downloads\aula20DS_HenriqueG&MatheusV\aula20DS_HenriqueG&MatheusV\aula20DS_HenriqueG&MatheusV\obj\Debug\aula20DS_HenriqueG&MatheusV.csproj.GenerateResource.cache
+C:\Users\Matheus\Downloads\aula20DS_HenriqueG&MatheusV\aula20DS_HenriqueG&MatheusV\aula20DS_HenriqueG&MatheusV\obj\Debug\aula20DS_HenriqueG&MatheusV.csproj.CoreCompileInputs.cache
